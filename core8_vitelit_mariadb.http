@@ -1,0 +1,6 @@
+@core8_vitelit_mariadb_HostAddress = http://localhost:5265
+
+GET {{core8_vitelit_mariadb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
